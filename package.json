@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-jsdoc-lazy",
+  "version": "0.0.0",
+  "description": "Apply require-jsdoc, but prevent reporting for react lifecycle and special methods",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Sheri Zada",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "eslint": "~3.14",
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
