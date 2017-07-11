@@ -10,7 +10,7 @@
   "author": "Sheri Zada",
   "main": "lib/index.js",
   "devDependencies": {
-    "eslint": "~3.14",
+    "eslint": "~3.14"
   },
   "engines": {
     "node": ">=0.10.0"
